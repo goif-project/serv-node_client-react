@@ -12,7 +12,15 @@ db接続するための(仮)ベース<br>
 heroku local web --port 10080
 ```
 を行ったら<br>
-`http://localhost:10080/`にアクセス
+`http://localhost:10080/`にアクセス<br>
+
+または、<br>
+
+```
+npm start
+```
+を行ったら<br>
+`http://localhost:5000/`にアクセス
 
 ## db
 
